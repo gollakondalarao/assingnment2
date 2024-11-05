@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="/images/india-map.jpg" usemap="#indiamap" />
+    
+     <map name="indiamap">
+        <area shape="circle" coords="226,312,100" href="home.html">
+        <area shape="circle" coords="362,590,100" href="services.html">
+        <area shape="circle" coords="828,360,100" href="contact.html">
+        <area shape="circle" coords="548,638,100" href="FAQ.html">
+        <area shape="rect" coords="18,20,138,99" href="home.html">
+        <area shape="rect" coords="596,10,910,97" href="services.html">
+        <area shape="rect" coords="559,920,967,1111" href="contact.html">
+        <area shape="rect" coords="5,836,213,1122" href="FAQ.html">
+        <area shape="poly" coords="354,664,458,766,363,871,334,734" href="home.html">
+        <area shape="poly" coords="317,722,284,856,261,915,219,782" href="services.html">
+        <area shape="poly" coords="225,81,393,117,348,192,243,141" href="contact.html">
+        <area shape="poly" coords="330,327,504,412,478,485,340,395" href="FAQ.html">
+
+
+
+
+
+     </map>
+
+</body>
+</html>
